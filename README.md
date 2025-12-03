@@ -80,7 +80,8 @@ If PaperSupe helps you in your research journey:
 
 ## 📬 **Stay Connected**
 **Maintainer:** Abhishek Shah  
-**Email:** abhishek.aimarine@gmail.com  
+**Developer Email:** abhishek.aimarine@gmail.com  
+**PaperSupe Email:** thepapersupe@gmail.com 
 **LinkedIn:** linkedin.com/in/theabhishekshah
 
 **
