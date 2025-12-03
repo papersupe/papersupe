@@ -90,5 +90,5 @@ Feel free to open an issue or reach out.
 
 ---
 
-### ©️ **PaperSupe** | 2025 
+#### ©️ **PaperSupe** | 2025 
 
