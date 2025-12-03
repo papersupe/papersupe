@@ -90,4 +90,5 @@ Feel free to open an issue or reach out.
 
 ---
 
-### ✨ *PaperSupe — Empowering Research Through Clarity 🌟*
+©️ **PaperSupe** | 2025 
+Research | Reality
