@@ -90,6 +90,5 @@ Feel free to open an issue or reach out.
 
 ---
 
-©️ **PaperSupe** | 2025 
-- 
-Research | Reality
+### ©️ **PaperSupe** | 2025 
+
