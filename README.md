@@ -1,4 +1,4 @@
-![PaperSupe Banner](papersupecoverimage.png)
+![PaperSupe Banner](assets/papersupecoverimage.png)
 
 # 📚 **PaperSupe**
 ### *Your One‑Stop Repository for Research Insights, Breakthroughs & Deep Reviews*
